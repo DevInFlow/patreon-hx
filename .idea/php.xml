@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/www/vendor/art4/json-api-client" />
+      <path value="$PROJECT_DIR$/www/vendor/patreon/patreon" />
+      <path value="$PROJECT_DIR$/www/vendor/composer" />
+    </include_path>
+  </component>
+</project>

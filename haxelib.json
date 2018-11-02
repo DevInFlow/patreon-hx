@@ -1,0 +1,38 @@
+{
+  "name": "patreon-hx",
+  "url": "https://github.com/varadig/patreon-hx.git",
+  "license": "MIT",
+  "tags": [
+    "nodejs",
+    "php",
+    "python"
+  ],
+  "description": "",
+  "version": "0.0.1",
+  "classPath": "src",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {
+
+  }
+}
+
+/*
+{
+  "name": "useless_lib",
+  "url" : "https://github.com/jasononeil/useless/",
+  "license": "MIT",
+  "tags": ["cross", "useless"],
+  "description": "This library is useless in the same way on every platform.",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["Juraj","Jason","Nicolas"],
+  "dependencies": {
+    "tink_macro": "",
+    "nme": "3.5.5"
+  }
+}
+*/
